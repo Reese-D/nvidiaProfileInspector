@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <CustomColorSetting>
 	<!-- main background color of the application-->
-	<BackColor>25,25,25</BackColor>
+	<BackColor>44, 47, 51</BackColor>
 	<!-- color of most of the text-->
 	<ForeColor>170,170,170</ForeColor>
 	<!-- all other text in main body that isn't the inactive text below-->
@@ -15,5 +15,5 @@
 	<!-- Not really sure, found these in settings but you can play around to figure them out? -->
 	<GlobalSettingState3Color>255, 200, 0</GlobalSettingState3Color>
 	<GlobalSettingState2Color>0,0,255</GlobalSettingState2Color>
-	<GlobalSettingState0Color>255,0,0</GlobalSettingState0Color>
+	<GlobalSettingState0Color>0,255,0</GlobalSettingState0Color>
 </CustomColorSetting>
