@@ -1,11 +1,11 @@
-![](/nspector/Images/n1-016.png) **NVIDIA Profile Inspector**
-
-This tool is used for modifying game profiles inside the internal driver database of the nvidia driver.
-All game profiles are provided by the nvidia driver, but you can add your own profiles for games missing in the driver database.
-You also have access to hidden and undocumented settings, which are not provided by the drivers control panel.
-
+![logo](https://cdn.discordapp.com/attachments/813523588127916082/814940012143181834/unknown.png)
+-makeshift logo just to cover some basic presence of this tool
+#Welcome
+##this tool aim to bring custom colors (main support for dark theme for night usage)
+##for the Nvidia Profile Inspector by Orbmu2k
 For more information how to use this tool, you can find some very good wikis here:
-* https://wiki.step-project.com/Guide:NVIDIA_Inspector
-* https://www.pcgamingwiki.com/wiki/Nvidia_Profile_Inspector
 
-![](npi_screenshot.png)
+	https://wiki.step-project.com/Guide:NVIDIA_Inspector
+	https://www.pcgamingwiki.com/wiki/Nvidia_Profile_Inspector
+
+![presentation](https://cdn.discordapp.com/attachments/813523588127916082/814189537970487382/unknown.png)
