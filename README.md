@@ -13,6 +13,7 @@
 For more information how to use this tool, you can find some very good wikis here:
 
 [https://wiki.step-project.com/Guide:NVIDIA_Inspector](https://wiki.step-project.com/Guide:NVIDIA_Inspector)
+
 [https://www.pcgamingwiki.com/wiki/Nvidia_Profile_Inspector](https://www.pcgamingwiki.com/wiki/Nvidia_Profile_Inspector)
 
 ![presentation](https://cdn.discordapp.com/attachments/813523588127916082/814189537970487382/unknown.png)
