@@ -1,1 +1,0 @@
-![logo](https://cdn.discordapp.com/attachments/813523588127916082/814940012143181834/unknown.png)
